@@ -1,0 +1,22 @@
+456;Ritratti in Jazz;2;Murakami Haruki;Wada Makoto
+201;Non lasciarmi;1;Kazuo Ishiguro
+52;Buona apocalisse a tutti!;2;Neil Gaiman;Terry Pratchett
+9;Momo;1;Micheal Ende
+73;I malavoglia;1;Giovanni Verga
+145;La divina commedia;1;Dante Alighieri
+37;The Cinderella Murder;2;Mary Higgins Clark;Alafair Burke
+4;Centanni di solitudine;1;Gabriel Garcia Marquez
+321;Anna Karenina;1;Lev Tolstoj  
+180;I Buddenbrook;1;Thomas Mann  
+34;Moby Dick;1;Herman Melville  
+179;Memorie di Adriano;1;Marguerite Yourcenar  
+102;Il problema dei 3 corpi;1;Liu Cixin
+67;Lolita;1;Vladimir Nabokov 
+35;The Talisman;2;Stephen King;Peter Straub
+101;Il Conte di Montecristo;1;Alexandre Dumas  
+42;Don Chisciotte della Mancia;1;Miguel de Cervantes  
+43;Gita al faro;1;Virginia Woolf  
+44;Il Gattopardo;1;Tomasi di Lampedusa  
+45;Il Processo;1;Franz Kafka 
+8;Gli anni;1;Annie Ernaux
+10;Gli anni;1;Annie Ernaux
